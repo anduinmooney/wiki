@@ -1,0 +1,66 @@
+#top-right {
+  text-align: right;
+  font-size: 12px;
+
+}
+
+#top-right li {
+    display: inline;
+}
+
+.column {
+  float:left;
+}
+
+#sidebar {
+  margin: 12px;
+  border-right: 1px solid skyblue;
+  padding: 4px;
+  background-color: rgba(99, 99, 99, 0.1);
+  width: 13%;
+}
+
+#sidebar p{
+  text-align: center;
+}
+
+#sidebar img {
+  width: 99%;
+}
+
+#content {
+  float: left;
+  width: 83%;
+}
+
+.topbar {
+  margin: 12px;
+  border: 2px solid darkgray;
+  padding: 4px;
+  background-color: rgba(99, 99, 99, 0.1);
+  width: 100%;
+  position: relative;
+
+}
+
+#coin {
+  float: left;
+  padding-right: 6px;
+}
+
+#salvator {
+  float: right;
+}
+#purple {
+  background-color: rgba(157, 89, 193, 0.5);
+}
+
+#lightpurple {
+  background-color: rgba(186, 142, 209, 0.3);
+  text-align: center;
+}
+#batur {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
